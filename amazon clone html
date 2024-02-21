@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>netflix</title>
+    <link rel="stylesheet" href="netflix.css">
+</head>
+<body>
+    <nav>
+        <div class="img">
+             <!-- <img src="nt1-removebg-preview.png" alt="">  -->
+
+        </div>
+        <div class="btn">
+            <button class="eng">English</button>
+            <button class="sign">sing In</button>
+
+        </div>
+    </nav>
+    <div class="main">
+        <h1>Unlimited movies,Tv shows and more.</h1>
+        <h2>Watch anywhere.Cancel anytime</h2>
+        <p>Ready to Watch? Enter your email to create or restart your membership</p>
+        <div class="input">
+            <input type="text" placeholder="Email Address">
+            <button>Get Started</button>
+        </div>
+    </div>
+
+    <div class="first">
+        <div class="text">
+          <h1>Download your shows to watch offline</h1>
+          <p>Save your favourites easily and always have something to watch.</p>
+        </div>
+        <img src="n1.jpg" alt="">
+
+    </div>
+   
+
+    <div class="first">
+        <img src="n2.png" alt="">
+        <div class="text">
+          
+          <h1>Watch everywhere.</h1>
+          <p>Stream Unlimited movies and Tv shows on your phone,tablet,laptop,and tv</p>
+        </div>
+    </div>
+   
+     <div class="first">
+        <div class="text">
+          <h1>Create profiles for kids</h1>
+          <p>Send children on adventures with their favourite characters in a space made just for them—free with your membership.</p>
+           
+        </div>
+        <img src="n3.png" alt=""> 
+    </div>
+     
+
+    <div class="first">
+        <img src="n1.jpg" alt="">
+        <div class="text">
+          
+          <h1>Download your shows to watch offline</h1>
+          <p>Save your favourites easily and always have something to watch.</p>
+        </div>
+    </div>
+
+    <div class="buttons">
+        <h1>Frequently Asked Questions</h1>
+        <button>What is netflix ?</button><br>
+        <button>How much netflix cost ?</button><br>
+        <button>Where can i watch ?</button><br>
+        <button>How do i cancel ?</button><br>
+
+    </div>
+    <div class="footer">
+        <div class="list">
+            <p>FAQ</p>
+            <p>investor Relations</p>
+            <p>privacy</p>
+            <p>Speed Test</p>
+            <p>netflix india</p>
+
+        </div>
+
+        <div class="list">
+            <p>Help Center</p>
+            <p>Jobs</p>
+            <p>Cookie Preferences</p>
+            <p>Legal Notices</p>
+            
+
+        </div>
+
+        <div class="list">
+            <p>Account</p>
+            <p>Ways to watch</p>
+            <p>Corporate information</p>
+            <p>Only on netflix</p>
+            
+
+        </div>
+
+        <div class="list">
+            <p>Media Center</p>
+            <p>Terms of Use</p>
+            <p>contact Us</p>
+            
+
+        </div>
+    </div>
+
+    
+
+</body>
+</html>
